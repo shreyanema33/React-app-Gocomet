@@ -1,0 +1,19 @@
+.side {
+    display: table-cell;
+    width: 15%;
+}
+
+.pro {
+    display: table-cell;
+    width: 85%;
+}
+
+.sortbar {
+    position: relative;
+    display: inline-block;
+}
+
+.sortby {
+    display: flex;
+    font-size: 10px;
+}

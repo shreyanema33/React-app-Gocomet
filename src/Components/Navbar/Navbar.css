@@ -1,0 +1,15 @@
+.navbar {
+        display: flex;
+        flex-direction: row;
+        float: left;
+        box-sizing: inherit;
+        height: 80px;
+}
+
+.navbar-item {
+        display: flex;
+        align-items: flex-start;
+        margin-left: 30px;
+        color: inherit;
+        text-transform: uppercase;
+}
